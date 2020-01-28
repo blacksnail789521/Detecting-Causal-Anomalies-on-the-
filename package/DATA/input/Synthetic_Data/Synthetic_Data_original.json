@@ -1,0 +1,47 @@
+{
+    "attribute": [
+        "STATE", 
+        "N0", 
+        "N1", 
+        "N2", 
+        "N3", 
+        "N4", 
+        "N5", 
+        "N6", 
+        "N7", 
+        "N8", 
+        "N9"
+    ], 
+    "data_index": [
+        {
+            "LOT_ID": "R0", 
+            "length": 600, 
+            "start_index": 0, 
+            "end_index": 599
+        }, 
+        {
+            "LOT_ID": "R1", 
+            "length": 600, 
+            "start_index": 600, 
+            "end_index": 1199
+        }, 
+        {
+            "LOT_ID": "R2", 
+            "length": 600, 
+            "start_index": 1200, 
+            "end_index": 1799
+        }, 
+        {
+            "LOT_ID": "R3", 
+            "length": 600, 
+            "start_index": 1800, 
+            "end_index": 2399
+        }, 
+        {
+            "LOT_ID": "R4", 
+            "length": 600, 
+            "start_index": 2400, 
+            "end_index": 2999
+        }
+    ]
+}
